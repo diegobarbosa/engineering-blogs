@@ -5,6 +5,14 @@
 You can now read the latest blog entries or just subscribe to your favorite ones at http://www.slicedham.co/
 
 **Companies**
+* Airbnb http://nerds.airbnb.com/
+* Codeship https://blog.codeship.com/?s=Ruby
+* He:labs http://helabs.com/blog/tags/#ruby
+* Resultados Digitais http://shipit.resultadosdigitais.com.br/blog/categoria/dev/
+* Kickstarter https://www.kickstarter.com/backing-and-hacking
+* Shopify https://www.shopify.com/technology
+* Envato http://webuild.envato.com/
+* Spotify https://labs.spotify.com/
 * 2359 Media http://engineering.2359media.net/
 * 8th Light http://blog.8thlight.com/
 * AdRoll http://tech.adroll.com/blog/
